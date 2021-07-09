@@ -1,0 +1,12 @@
+CRITICAL - 2021-07-08 11:31:17 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /Users/yymt/Desktop/VscodeDebugGuideForPHP/system/CodeIgniter.php(228): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /Users/yymt/Desktop/VscodeDebugGuideForPHP/system/CodeIgniter.php(180): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /Users/yymt/Desktop/VscodeDebugGuideForPHP/system/bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#3 /Users/yymt/Desktop/VscodeDebugGuideForPHP/public/index.php(28): require('/Users/yymt/Des...')
+#4 {main}
+CRITICAL - 2021-07-08 11:32:16 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /Users/yymt/Desktop/VscodeDebugGuideForPHP/system/CodeIgniter.php(228): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /Users/yymt/Desktop/VscodeDebugGuideForPHP/system/CodeIgniter.php(180): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /Users/yymt/Desktop/VscodeDebugGuideForPHP/system/bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#3 /Users/yymt/Desktop/VscodeDebugGuideForPHP/spark(46): require('/Users/yymt/Des...')
+#4 {main}

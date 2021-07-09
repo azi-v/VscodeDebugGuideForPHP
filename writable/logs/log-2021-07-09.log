@@ -1,0 +1,12 @@
+CRITICAL - 2021-07-09 12:14:16 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /www/system/CodeIgniter.php(228): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /www/system/CodeIgniter.php(180): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /www/system/bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#3 /www/public/index.php(28): require('/www/system/boo...')
+#4 {main}
+CRITICAL - 2021-07-09 12:14:17 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /www/system/CodeIgniter.php(228): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /www/system/CodeIgniter.php(180): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /www/system/bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#3 /www/public/index.php(28): require('/www/system/boo...')
+#4 {main}
